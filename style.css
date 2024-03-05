@@ -1,0 +1,17 @@
+:root{
+    --header-nav: #E4D8CC;
+    --header-paragraf: #C3BAB1;
+    --button-title-color: #FFFFFF;
+    --button-color: #7837F3;
+    --header-button: rgba(228, 216, 204, 0.50);
+    --main-title: #101010;
+    --footer-nav: #B99FEA;
+    --footer-title: #E7DFD8;
+}
+body{
+    margin: 0 auto;
+    width: 1280px;
+}
+.header{
+    background-image: url(/photo/1.png);
+}
