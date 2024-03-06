@@ -13,5 +13,5 @@ body{
     width: 1280px;
 }
 .header{
-    background-image: url(/photo/1.png);
+    background: url(/photo/1.png);
 }
