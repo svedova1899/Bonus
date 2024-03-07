@@ -8,10 +8,23 @@
     --footer-nav: #B99FEA;
     --footer-title: #E7DFD8;
 }
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
 body{
     margin: 0 auto;
     width: 1280px;
 }
-.header{
-    background: url(/photo/1.png);
+.background{
+    background-image: url(photo/1.png);
+    background-repeat: no-repeat;
+
+}
+.header-nav{
+    color: var(--header-nav);
+    font-family: "Inter";
+    font-size: 11px;
 }
